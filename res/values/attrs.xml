@@ -1,0 +1,13 @@
+<resources>
+
+    <attr name="percent_of_width" format="float"/>
+
+    <declare-styleable name="com.github.browep.ratiobuttons.view.RatioButton">
+        <attr name="percent_of_width"/>
+    </declare-styleable>
+
+    <declare-styleable name="com.github.browep.ratiobuttons.view.RatioToggleButton">
+        <attr name="percent_of_width"/>
+    </declare-styleable>
+
+</resources>
